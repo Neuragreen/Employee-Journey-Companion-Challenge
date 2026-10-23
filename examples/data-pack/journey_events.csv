@@ -1,0 +1,13 @@
+employee_id,event_type,timestamp,event_id
+HIDDEN-1,journey started,2026-10-18T00:00:00Z,E-0
+HIDDEN-2,journey started,2026-10-18T00:00:00Z,E-1
+DEMO-003,journey started,2026-10-18T00:00:00Z,DEMO-E-3
+DEMO-004,journey started,2026-10-18T00:00:00Z,DEMO-E-4
+DEMO-005,journey started,2026-10-18T00:00:00Z,DEMO-E-5
+DEMO-006,journey started,2026-10-18T00:00:00Z,DEMO-E-6
+DEMO-007,journey started,2026-10-18T00:00:00Z,DEMO-E-7
+DEMO-008,journey started,2026-10-18T00:00:00Z,DEMO-E-8
+DEMO-009,journey started,2026-10-18T00:00:00Z,DEMO-E-9
+DEMO-010,journey started,2026-10-18T00:00:00Z,DEMO-E-10
+DEMO-011,journey started,2026-10-18T00:00:00Z,DEMO-E-11
+DEMO-012,journey started,2026-10-18T00:00:00Z,DEMO-E-12

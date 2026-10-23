@@ -1,0 +1,19 @@
+node_modules/
+.DS_Store
+*.tar.gz
+.env*
+!.env.example
+.openai/.cache/
+
+local-data/
+.runtime/
+*.gguf
+
+# Private rehearsal and authoring materials are archived outside this repo.
+tmp/
+demo-video/*
+private-materials/
+*.mp4
+!demo-video/demo.mp4
+*.mov
+.openai/

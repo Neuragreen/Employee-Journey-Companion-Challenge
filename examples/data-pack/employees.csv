@@ -1,0 +1,13 @@
+employee_id,name,journey,start_date,manager,location,consent,move_type
+HIDDEN-1,Employee 1,onboarding,2026-10-18,Manager,Test City,true,
+HIDDEN-2,Employee 2,internal mobility,2026-10-18,Manager,Test City,false,location
+DEMO-003,Employee 3,onboarding,2026-10-18,Manager,Test City,false,
+DEMO-004,Employee 4,internal mobility,2026-10-18,Manager,Test City,false,location
+DEMO-005,Employee 5,onboarding,2026-10-18,Manager,Test City,false,
+DEMO-006,Employee 6,internal mobility,2026-10-18,Manager,Test City,false,location
+DEMO-007,Employee 7,onboarding,2026-10-18,Manager,Test City,false,
+DEMO-008,Employee 8,internal mobility,2026-10-18,Manager,Test City,false,location
+DEMO-009,Employee 9,onboarding,2026-10-18,Manager,Test City,false,
+DEMO-010,Employee 10,internal mobility,2026-10-18,Manager,Test City,false,location
+DEMO-011,Employee 11,onboarding,2026-10-18,Manager,Test City,false,
+DEMO-012,Employee 12,internal mobility,2026-10-18,Manager,Test City,false,location

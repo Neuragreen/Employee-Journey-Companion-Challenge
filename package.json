@@ -1,0 +1,20 @@
+{
+  "name": "employee-companion",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node scripts/check.mjs",
+    "model:serve": "node scripts/local-model.mjs",
+    "import-pack": "node scripts/import-pack.mjs",
+    "accounts": "node scripts/create-accounts.mjs",
+    "setup": "node scripts/setup.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "description": "Local synthetic employee companion for onboarding and internal mobility"
+}

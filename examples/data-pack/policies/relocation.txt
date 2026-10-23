@@ -1,0 +1,10 @@
+---
+id: relocation
+code: IMPORT-GM-1
+version: 1
+keywords: visa, relocation, paperwork
+journey: mobility
+---
+# Relocation paperwork
+## Review
+Visa paperwork is reviewed by the named mobility owner. The target is day 3.
